@@ -1,6 +1,1 @@
-#Test for creation of the new folder.
 
-In the dropdown menu that appears, select "Create new file."
-In the "Name your file..." input box, enter the desired folder name followed by a forward slash ("/") and a placeholder file name. 
-For example, if you want to create a folder named "my-folder," you could enter "my-folder/placeholder.md" as the file name.
-Note: The placeholder file name is required because GitHub does not allow creating empty folders directly.
