@@ -1,3 +1,3 @@
 # SoftUni-Courses
 
-This are all my courses in SoftUni
+Courses from my education in SoftUni.
