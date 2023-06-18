@@ -1,3 +1,3 @@
 # SoftUni-Courses
 
-Software Technologies - May 2023
+This are all my courses in SoftUni
